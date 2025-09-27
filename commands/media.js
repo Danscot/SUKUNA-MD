@@ -122,7 +122,7 @@ module.exports = {
                     await sock.sendMessage(jid, {
                         audio: audioBuffer,
                         mimetype: 'audio/mpeg',
-                        ptt: true,
+                        ptt: false,
                         
                     }, { quoted: msg });
                     break;
