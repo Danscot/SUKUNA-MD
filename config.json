@@ -1,0 +1,26 @@
+{
+"TELEGRAM_BOT_TOKEN":"8282962586:AAErmDy-8Wv091s50p3v_71MdsL-rts7GwI",
+    "prefix": "!",
+    "MAX_SESSIONS_PER_USER": 3,
+    "MAX_TOTAL_SESSIONS": 50,
+    "OWNER_TELEGRAM_ID": "YOUR_TELEGRAM_ID",
+    "REQUIRED_CHANNELS": [
+        {
+            "id": "-1002716700295",
+            "name": "STEPH TECH",
+            "invite_link": "https://t.me/steph2tech"
+        },
+        {
+            "id": "-1003085036698",
+            "name": "MOOD VIBE",
+            "invite_link": "https://t.me/moodvibeotaku"
+        }
+    ],
+    "REQUIRED_GROUPS": [
+        {
+            "id": "-1002625388452",
+            "name": "STEPH TECH SUPPORT",
+            "invite_link": "https://t.me/senstudio2025"
+        }
+    ]
+}
